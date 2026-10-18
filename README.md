@@ -93,5 +93,6 @@ src/
 
 * **Rodrigo Salgueiro Ideia** — [GitHub](https://github.com/rodrigoideia19)
 * **André Pessoa Tavares**
+* **Gonçalo Bento**
 
 *BSc in Computer Science (LEI / European Course), Instituto Superior de Engenharia de Coimbra (ISEC)*
